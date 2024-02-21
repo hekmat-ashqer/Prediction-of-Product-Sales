@@ -17,6 +17,9 @@ For this dataset, there were 8523 rows and 12 columns.
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
+
+## Project 1 - Parts 3
+
 ## Exploratory Data Analysis
 
 - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
