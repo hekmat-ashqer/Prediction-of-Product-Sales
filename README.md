@@ -110,3 +110,7 @@ Opting for the Tuned Random Forest in our sales prediction project positions us 
 ## Limitations & Next Steps
 - **Enhanced Feature Engineering**: Although the model performs well, further improvement could be achieved by exploring more sophisticated feature engineering techniques, possibly incorporating external data sources such as weather patterns or economic indicators.
 - **Model Deployment and Monitoring**: Deploy the model into a real-time analytics framework to continuously monitor its performance and tweak as necessary to adapt to changing market conditions or consumer behaviors.
+
+
+### For further information
+For any additional questions, please contact **[hekmat.ashqer@gmail.com]**.
