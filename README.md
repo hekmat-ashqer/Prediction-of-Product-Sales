@@ -41,7 +41,7 @@ The histogram illustrates how the sales are distributed across different ranges,
 > This chart illustrates the distribution of total sales across different store types, providing insights into which store formats achieve higher sales volumes. it show that supermarkets tend to have higher average sales per item compared to grocery stores, indicating that outlet type is a strong predictor of sales.
 
 ### Price Elasticity of Products
-![Price Elasticity of Products](<img width="543" alt="price_elasticity" src="https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/12829449/db3f1c9e-536d-49eb-85bf-145c5695a84a">)
+![Price Elasticity of Products](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/12829449/db3f1c9e-536d-49eb-85bf-145c5695a84a)
 
 > This scatter plot demonstrates the relationship between the Maximum Retail Price (MRP) of products and their sales volumes across various outlets. The correlation coefficient r=0.57 indicates a moderate positive correlation, suggesting that as the MRP increases, sales volumes tend to increase as well. This highlights a certain degree of price sensitivity, where higher-priced items still enjoy substantial sales, possibly due to perceived value or brand loyalty.
 
