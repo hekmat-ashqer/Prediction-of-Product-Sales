@@ -79,9 +79,36 @@ Our comprehensive analysis and rigorous tuning process have led us to select the
 Opting for the Tuned Random Forest in our sales prediction project positions us to leverage a model that not only understands our existing data deeply but is also skilled at adapting to new scenarios. This makes it akin to having a sales prediction expert capable of accurately estimating sales outcomes for diverse products and outlets.
 
 
+
+
+### Linear Regression Analysis
+![Linear Regression Coefficients](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/LinearRegression_coefficients.png)
+
+#### Interpretation of Coefficients:
+- **Outlet_Type3 (+1607.5)**: Indicates significantly higher sales in `Type3` outlets, suggesting these locations may benefit from targeted inventory and marketing strategies to further boost performance.
+- **Item_MRP (+984.68)**: Reinforces the value-driven purchasing behavior of customers, where higher priced items contribute more significantly to sales, possibly due to perceived quality or brand positioning.
+- **Store (-1736.489)**: Identifies potential issues in certain store types or locations, signaling a need for operational reviews or enhanced customer engagement strategies.
+
+### Tree-Based Model Insights
+![Feature Importances](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/important_feature_RF.png)
+
+#### Top 5 Most Important Features:
+1. **Item MRP**: High impact on sales, indicating pricing strategies are crucial.
+2. **Grocery Store**: Negative impact, suggesting these stores might require targeted strategies to boost sales.
+3. **Item Visibility**: Emphasizes the importance of product placement within stores.
+4. **Supermarket Type3**: Shows these stores perform well, possibly due to better customer services or product variety.
+5. **Item Weight**: Suggests bulk or heavier items might influence buying decisions.
+
+
+
+
 ## Recommendations:
 - **Dynamic Pricing Strategy**: Implement dynamic pricing strategies informed by the model’s insights into price sensitivity, adjusting prices in real-time based on demand and inventory levels.
 - **Inventory Optimization**: Use the model's predictions to optimize inventory levels across stores, ensuring high-demand products are adequately stocked in locations where they sell well.
+- **Enhance Store Formats**: Reevaluate and redesign the layout of Grocery stores to improve sales, perhaps by increasing product variety and enhancing visibility.
+- **Product Placement Optimization**: Develop strategies to improve item visibility in stores, ensuring that high-demand products are easily accessible and well-positioned.
+
+
 
 ## Limitations & Next Steps
 - **Enhanced Feature Engineering**: Although the model performs well, further improvement could be achieved by exploring more sophisticated feature engineering techniques, possibly incorporating external data sources such as weather patterns or economic indicators.
