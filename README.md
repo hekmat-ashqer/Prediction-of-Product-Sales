@@ -77,12 +77,9 @@ Our comprehensive analysis and rigorous tuning process have led us to select the
 
 ### Conclusion
 Opting for the Tuned Random Forest in our sales prediction project positions us to leverage a model that not only understands our existing data deeply but is also skilled at adapting to new scenarios. This makes it akin to having a sales prediction expert capable of accurately estimating sales outcomes for diverse products and outlets.
-
-
-
-
+ 
 ### Linear Regression Analysis
-![Linear Regression Coefficients](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/LinearRegression_coefficients.png)
+![Linear Regression Coefficients](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/12829449/e04554b9-8762-4965-9b6b-be1662b32076)
 
 #### Interpretation of Coefficients:
 - **Outlet_Type3 (+1607.5)**: Indicates significantly higher sales in `Type3` outlets, suggesting these locations may benefit from targeted inventory and marketing strategies to further boost performance.
@@ -90,7 +87,7 @@ Opting for the Tuned Random Forest in our sales prediction project positions us 
 - **Store (-1736.489)**: Identifies potential issues in certain store types or locations, signaling a need for operational reviews or enhanced customer engagement strategies.
 
 ### Tree-Based Model Insights
-![Feature Importances](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/important_feature_RF.png)
+![Feature Importances](https://github.com/hekmat-ashqer/Prediction-of-Product-Sales/assets/12829449/d5a4797e-1f2f-4c60-8fa5-5210ddbab438)
 
 #### Top 5 Most Important Features:
 1. **Item MRP**: High impact on sales, indicating pricing strategies are crucial.
